@@ -37,3 +37,4 @@
 * Object–relational impedance mismatch란 어떤 개념인가요?
 * Foreign Key란 무엇인가요? 이것을 사용할 때의 장점과 단점은 무엇일까요?
 * 이전에 쓰이던 해시함수들에는 어떤 것이 있을까요? 패스워드 해싱의 추세의 역사는 어떻게 이어져왔나요?
+DDDDDDDDDDD
